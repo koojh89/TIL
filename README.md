@@ -28,4 +28,5 @@
 - spark
 - spring integration
 - spring batch
+- mesos
 
