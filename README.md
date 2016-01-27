@@ -32,3 +32,7 @@
 
 ## 좋은 블로그
 - [Probably Overthinking It](http://allendowney.blogspot.kr)
+
+
+## Python
+- [Vim and Python - a Match Made In Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven)
